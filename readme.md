@@ -3,4 +3,4 @@
 
 ##### ROADMAP
 
-* v0.1 - initial commit
+* v0.1 - initial commit, set-up venv, create readme, .gitignore files.
